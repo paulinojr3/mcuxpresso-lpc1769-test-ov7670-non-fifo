@@ -7,12 +7,12 @@ To make this tutorial work, you need the following components:
 ### Software
 - [MCUXpresso IDE](https://www.nxp.com/support/developer-resources/software-development-tools/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE?tab=Design_Tools_Tabhttps://www.nxp.com/support/developer-resources/software-development-tools/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE?tab=Design_Tools_Tab)
 - [HTerm](http://www.der-hammer.info/terminal/)
-- [RGB565ToBitmap]
+- RGB565ToBitmap
 
 ### Hardware
-- [Ov7670 without FIFO]
-- [Usb/Serial Converter 3.3v]
-- [LPCXpresso with Target LPC1768/69]
+- Ov7670 without FIFO
+- Usb/Serial Converter 3.3v
+- LPC1768/69
 
 The picture below shows the architecture of the project 
 ![DiagramCapture](https://user-images.githubusercontent.com/40465199/56409447-7a947980-624f-11e9-90fd-a30b67bd24df.png)

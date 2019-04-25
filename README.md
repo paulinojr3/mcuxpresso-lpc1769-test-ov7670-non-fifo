@@ -10,6 +10,9 @@ To make this tutorial work, you need the following components:
 - [RGB565ToBitmap]
 
 ### Hardware
+- [Ov7670 without FIFO]
+- [Usb/Serial Converter 3.3v]
+- [LPCXpresso with Target LPC1768/69]
 
 The picture below shows the architecture of the project 
 ![DiagramCapture](https://user-images.githubusercontent.com/40465199/56409447-7a947980-624f-11e9-90fd-a30b67bd24df.png)
